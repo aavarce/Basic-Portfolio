@@ -1,0 +1,98 @@
+.title1 {
+    background-color: #428bca
+}
+
+.title1 h1 {
+    text-align: center;
+    color:white;
+}
+.title1 h2 {
+    text-align: center;
+    color:black;
+}
+
+#medText {
+    font-size: 25px;
+    color: black;
+}
+
+#tinyText {
+    font-size: 10px;
+}
+
+#centerText {
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
+
+#boldText {
+    font-weight: bold;
+    color: black;
+}
+
+#redText {
+    font-size: 15px;
+    color: red;
+}
+
+#blueText {
+    font-size: 15px;
+    color: blue;
+}
+
+#greenText {
+    font-size: 15px;
+    color: green;
+}
+#styledFont {
+    font-size: 25px;
+    color: green;
+    font-family: 'Lucida Grande', sans-serif;
+}   
+ 
+#chgFont {
+    font-size: 30px;
+    color: green;
+    font-family: 'Times', serif;
+}
+
+#mixFont {
+    font-size: 35px;
+    color: #ff9900;
+    font-weight: bold;
+    font-family: 'Avantgarde', sans-serif;
+}
+
+#mixFont2 {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 5px;
+    color: black;
+    font-weight: bold;
+}
+
+p, h1, h{
+    color: green;  
+    font-weight: normal;
+    font-family: 'Comic Sans MS', cursive, serif;
+}
+
+copy-right {
+    background-color: green;
+    width: 100px;
+    padding: 10px;
+    margin: 20px;
+}
+
+#styledImage {
+    width: 300px;
+    height: 300px;
+    top: 100%;
+    left: 100%;
+    margin-left: 535px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    border: 15px solid red;
+    padding: 10px;
+}
