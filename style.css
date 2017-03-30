@@ -1,21 +1,96 @@
 .title1 {
-    background-color: #428bca
+    background-color: #ffffff;
+}
+h1, h2 {
+    font-family: "Georgia", Times, Times New Roman, serif;
+}
+.title1  {
+    background-color: #4aaaa5;
+    text-align: center;
+    color: #ffffff;
 }
 
-.title1 h1 {
-    text-align: center;
-    color:white;
+.name1 {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    width: 50;
+    padding-right: 250px;
+    border-style: hidden;
+    height: 25px;
+    top: 50%;
+    margin-left: 200px;
+    margin-right: 600px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    padding: 20px;
 }
-.title1 h2 {
-    text-align: center;
-    color:black;
+#name2 {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    width: 100;
+    padding-right: 100px;
+    border-style: hidden;
+    height: 75px;
+    top: 10%;
+    margin-left: 200px;
+    margin-right: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+.div1 {
+    width: 10px;
+    height: 15px;
+    border: 1px solid blue;
+    box-sizing: border-box;
 }
 
+.div2 {
+    box-sizing: border-box;
+    width: 10px;
+    height: 15px;    
+    padding: 1px;
+    border: 1px solid red;
+    box-sizing: border-box;
+    float: left;
+}
+.div3 {
+    width: 10px;
+    height: 15px;    
+    padding: 1px;
+    border: 1px solid red;
+    box-sizing: border-box;
+    float: left;
+}
+#main-bio {
+    background-color: #ffffff;
+}
 #medText {
     font-size: 25px;
     color: black;
 }
+#work-experience {
+    float: left;
+    width: 100px;
+    height: 150px;
+    margin: 10px;
+    border: 3px solid #73AD21;
+}
+#hobby {
+    float: right;
+    width: 100px;
+    height: 150px;
+    margin: 10px;
+    border: 3px solid #73AD21;
+}
 
+#contact-info { 
+    float: right;
+    width: 200px;
+    height: 150px;
+    margin: 10px;
+    border: 3px solid #73AD21;
+}    
 #tinyText {
     font-size: 10px;
 }
@@ -73,13 +148,21 @@
 }
 
 p, h1, h{
-    color: green;  
+    color: #777777;  
     font-weight: normal;
     font-family: 'Comic Sans MS', cursive, serif;
 }
 
-copy-right {
-    background-color: green;
+#about {
+    width: 10px;
+    border: 1px solid green;
+    padding: 5px;
+    margin: 5px;
+    padding-right: 5px;
+    border-style: hidden;}
+}
+#copy-right {
+    background green;
     width: 100px;
     padding: 10px;
     margin: 20px;
@@ -96,3 +179,5 @@ copy-right {
     border: 15px solid red;
     padding: 10px;
 }
+
+
